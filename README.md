@@ -1,4 +1,4 @@
-# Oluwatobi Adekoya
+# Oluwatobi Daniel Adekoya
 
 Data Scientist and AI Engineer based in Lagos, Nigeria.
 I build machine learning systems, from data pipelines to explainable models.
